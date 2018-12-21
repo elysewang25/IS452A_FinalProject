@@ -1,0 +1,4 @@
+# please paste your token below
+EAAa5vIGsXhIBAHWRUZAFEl7xhXbYlP5EbujAeOtZC8fOvjSqUp7lSKHZCUPMawGznX4SJZB4QTUCp1Nv5osbgcB6Axxk0vbjETlA7LMKkK3AADjjibuPZAnZCzeWT3OrhVPayZA5NmXF0ZAvoDLZBzyuy8064tHluvquQ3H49xDF2wUAZBDyuUZCGX4utTw7qADMqEZD
+# please put the target file name for analyzing below
+Facebook_analysis.txt
